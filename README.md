@@ -128,4 +128,4 @@ Source code is private. For demos, licensing inquiries, or partnership opportuni
 
 ---
 
-*From first commit to production in under 40 hours. Solo. Protected by architecture, not by wishful thinking.*
+*From first commit to production in under 40 hours. Solo.*
