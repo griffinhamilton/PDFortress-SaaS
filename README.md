@@ -1,7 +1,5 @@
 # 🔒 PDFortress
 
-**Your documents. Your rules. Your fortress.**
-
 PDFortress is a secure, cloud-hosted PDF document viewer built for creators, educators, consultants, and businesses who distribute premium or confidential content to controlled audiences — without the risk of casual downloading, sharing, screenshotting, or redistribution.
 
 🚀 *Designed, built, and deployed in under 40 hours — from first commit to production — by a **solo non-engineer** in February 2026 as a complete multi-tenant SaaS platform in a single sprint, **demonstrating rapid delivery of complex, security-focused web applications for clients requiring unique technical solutions.***
